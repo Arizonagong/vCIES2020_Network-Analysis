@@ -3,7 +3,7 @@
 
 This repository is for the **Network analysis and visualization** workshop organized at the [Virtual Annual Conference of Comparative and International Education Society 2020 (vCIES 2020)](https://cies2020.org/) on June 17-19, 2019.
 
-This repository includes two data sets from the study of Gemnetto, Barrat, & Cattuto (2014)* on the infection network at the primary school. You can also find the data of this study from the open source of [Sociopatterns] (http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/). It is the opensource network data platform readily available for any type of studies and researches. 
+This repository includes two data sets from the study of Gemnetto, Barrat, & Cattuto (2014)* on the infection network at the primary school. You can also find the data of this study from the open source of [Sociopatterns](http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/). It is the opensource network data platform readily available for any type of studies and researches. 
 
 
 
