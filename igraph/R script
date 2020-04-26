@@ -10,8 +10,8 @@
 # and click "get info".
 # This is my own directory, so you should create a folder of your own.
 # It is case sensitive, so once you got the error you should check up the exact spelling.
-setwd("/Users/bgong/Documents/R programs/CIES2020/") 
-getwd() # Once you can see the same directory out of this order, you are all set to go.
+     setwd("/Users/bgong/Documents/R programs/CIES2020/") 
+     getwd() # Once you can see the same directory out of this order, you are all set to go.
 
 install.packages("igraph")
 library(igraph)
@@ -83,3 +83,4 @@ plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
      vertex.color=pal[as.numeric(as.factor(vertex_attr(Stucont, "Class")))],
      vertex.size = sqrt(Stucont_bw)/3, edge.width=sqrt(E(Stucont)$weight/800),
      layout = layout.fruchterman.reingold)
+     
