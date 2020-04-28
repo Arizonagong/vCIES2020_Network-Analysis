@@ -13,6 +13,7 @@ The first video includes theory part of my lecture and the second video file is 
 There are two links for the video clips here bellow:
 
 [vCIES 2020 Network Analysis Workshop: Session1. Theory](https://cies2020.org/)
+
 [vCIES 2020 Network Analysis Workshop: Session2. Practice](https://cies2020.org/)
 
 
