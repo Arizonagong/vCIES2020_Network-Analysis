@@ -22,7 +22,7 @@ This video will be accessible to general public from June 2020 through my Youtub
 
 ##   2. igraph R script & data files
 
-In this folder there is one R script for the igraph network analysis. You can download this R script to your R Studio and follow instructions of the Youtube video.
+In this folder there is one R script for the igraph network analysis. You can download this R script to your R Studio and follow instructions of my lecture video **vCIES 2020 Network Analysis Workshop: Session2. Practice**.
 
 For the igraph analysis, there are two data sets from the study of [Gemnetto, Barrat, & Cattuto (2014)](https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-014-0695-9) titled as Mitigation of infectious disease at school: Targeted class closure vs school closure, which studied the infection network at the primary school. You can also find the data of this study from [Sociopatterns](http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/). It is the open source network data platform readily available for any type of studies and researches. 
        
