@@ -6,7 +6,9 @@ This repository is for the **Network analysis and visualization** workshop organ
 This repository includes **Lecture Videos**, **igraph R script & data files**, and **Gephi data files**.
 
 ##   1. Lecture Videos
-In this folder there are two video files. The first video file includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
+
+In this folder, there are two links for the Youtube videos. 
+The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
 
 ##   2. igraph R script & data files
 
