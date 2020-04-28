@@ -10,7 +10,8 @@ This repository includes **Lecture Videos**, **igraph R script & data files**, a
 In this folder, there are two links for the Youtube videos. 
 The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
 
-Please be aware of that the video files are not downladable and sharing with the others without a permission is prohibited.
+Please be aware that the video files are not downladable and sharing with the others without a permission is prohibited.
+This video will be shared to the general public from June 2020 through my Youtube channel and personal website.
 
 ##   2. igraph R script & data files
 
