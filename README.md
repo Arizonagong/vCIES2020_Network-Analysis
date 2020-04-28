@@ -7,11 +7,15 @@ This repository includes **Lecture Videos**, **igraph R script & data files**, a
 
 ##   1. Lecture Videos
 
+There are two lecture videos for this workshop. 
+The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
+
 There are two links for the video clips here bellow:
 
-[vCIES 2020 Network Analysis Workshop: Session1](https://cies2020.org/)
+[vCIES 2020 Network Analysis Workshop: Session1. Theory](https://cies2020.org/)
+[vCIES 2020 Network Analysis Workshop: Session2. Practice](https://cies2020.org/)
 
-The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
+
 
 Please be aware that the video files are not downladable and sharing with the others without a permission is prohibited.
 This video will be shared to the general public from June 2020 through my Youtube channel and personal website.
