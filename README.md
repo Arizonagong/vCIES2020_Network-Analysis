@@ -7,7 +7,10 @@ This repository includes **Lecture Videos**, **igraph R script & data files**, a
 
 ##   1. Lecture Videos
 
-In this folder, there are two links for the Youtube videos. 
+There are two links for the video clips here bellow:
+
+[Virtual Annual Conference of Comparative and International Education Society 2020 (vCIES 2020)](https://cies2020.org/)
+
 The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
 
 Please be aware that the video files are not downladable and sharing with the others without a permission is prohibited.
