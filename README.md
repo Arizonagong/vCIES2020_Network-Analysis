@@ -10,6 +10,8 @@ This repository includes **Lecture Videos**, **igraph R script & data files**, a
 In this folder, there are two links for the Youtube videos. 
 The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
 
+Please be aware of that the video files are not downladable and sharing with the others without a permission is prohibited.
+
 ##   2. igraph R script & data files
 
 In this folder there is one R script for the igraph network analysis. You can download this R script to your R Studio and follow instructions of the Youtube video.
