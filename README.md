@@ -5,8 +5,10 @@ This repository is for the **Network analysis and visualization** workshop organ
 
 This repository includes **Lecture Videos**, **igraph R script & data files**, and **Gephi data files**.
 
-# 1. Lecture Videos
+#   1. Lecture Videos
 In this folder there are two video files. The first video file includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
+
+#   2. igraph R script & data files
 
 two data sets from the study of [Gemnetto, Barrat, & Cattuto (2014)](https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-014-0695-9) titled as Mitigation of infectious disease at school: Targeted class closure vs school closure, which studied the infection network at the primary school. You can also find the data of this study from [Sociopatterns](http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/). It is the open source network data platform readily available for any type of studies and researches. 
        
