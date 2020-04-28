@@ -17,9 +17,8 @@ There are two links for the video clips here bellow:
 [vCIES 2020 Network Analysis Workshop: Session2. Practice](https://cies2020.org/)
 
 
-
 Please be aware that the video files are not downladable and sharing with the others without a permission is prohibited.
-This video will be shared to the general public from June 2020 through my Youtube channel and personal website.
+This video will be accessible to general public from June 2020 through my Youtube channel and personal website.
 
 ##   2. igraph R script & data files
 
