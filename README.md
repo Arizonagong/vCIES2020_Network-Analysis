@@ -9,7 +9,7 @@ This repository includes **Lecture Videos**, **igraph R script & data files**, a
 
 There are two links for the video clips here bellow:
 
-[Virtual Annual Conference of Comparative and International Education Society 2020 (vCIES 2020)](https://cies2020.org/)
+[vCIES 2020 Network Analysis Workshop: Session1](https://cies2020.org/)
 
 The first video includes theory part of my lecture and the second video file is for the practice of the igraph and Gephi with the data files.
 
