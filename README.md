@@ -1,6 +1,8 @@
 # vCIES2020 
 # Network analysis and visualization workshop for the vCIES2020
 
+By Byoung-gyu Gong (Arizona State University) 
+
 This repository is for the **Network analysis and visualization** workshop organized at the [Virtual Annual Conference of Comparative and International Education Society 2020 (vCIES 2020)](https://cies2020.org/) on June 17-19, 2019.
 
 This repository includes **Lecture Videos**, **igraph R script & data files**, and **Gephi data files**.
