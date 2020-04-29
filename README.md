@@ -28,4 +28,10 @@ For the igraph analysis, there are two data sets from the study of [Gemnetto, Ba
        
 * Gemmetto, V., Barrat, A., & Cattuto, C. (2014). Mitigation of infectious disease at school: targeted class closure vs school closure. BMC Infectious Diseases, 14(1), 736–10. http://doi.org/10.1186/s12879-014-0695-9
 
+I will guide you to download the csv file data sets directly to the R Studio, but if you'd like to download this file and load it in the R Studio manually, you can get this file at bellow links:
+
+[Node list](https://drive.google.com/file/d/1rUyRJe5uEMerI4NXZCdC7XYTq71MCal0/view?usp=sharing)
+[Edge list](https://drive.google.com/file/d/1PsSMKrK0_XO4ie6zl9zBdfr50wtjILPe/view?usp=sharing)
+
+
 
