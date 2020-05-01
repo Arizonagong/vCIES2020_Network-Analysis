@@ -50,7 +50,7 @@ The lecture using Gephi for the network data analysis will also use the same dat
 Please download the data sets from the above links.
 
 The picutre at below is one of the captures of the video recorded for the Gephi practice session by the lecturer.
-<img src="pictures/cluster">
+<img src="pictures/Gephi.jpg">
 
 
 
