@@ -35,7 +35,7 @@ For the igraph analysis, there are two data sets from the study of [Gemnetto, Ba
 **Why I chose this data set?**: I chose this data set because of the recent outbreak of COVID-19. By using school infection network data set, I'd like to show you how effective the network data analysis is for the school related student's network analysis in a massive scale. Also, I thought that the infection network data will give you a good motivation with high relevance to our quarantined situation. 
 
 
-**How to download the data file for the analysis?**:I will guide you to download the csv file data sets directly to the R Studio, but if you'd like to download this file and load it in the R Studio manually, you can get this file at bellow links:
+**How to download the data file for the analysis?**: I will guide you to download the csv file data sets directly to the R Studio in my video lecture, but if you'd like to download this file and load it in the R Studio manually, you can get this file at bellow links:
 
 [Node list](https://drive.google.com/file/d/1rUyRJe5uEMerI4NXZCdC7XYTq71MCal0/view?usp=sharing)
 
