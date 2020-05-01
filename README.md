@@ -16,7 +16,7 @@ There are two links for the video clips here bellow:
 
 [vCIES 2020 Network Analysis Workshop: Session1. Theory](https://drive.google.com/file/d/1skzfmgC6gHc7oRtTxmUo8EX6Wf5uzQVf/view?usp=sharing)
 
-[vCIES 2020 Network Analysis Workshop: Session2. Practice](https://cies2020.org/)
+[vCIES 2020 Network Analysis Workshop: Session2. Practice](https://drive.google.com/file/d/1NpsPhbyV4C__r-YR0_CcbzgQxJdrGH9m/view?usp=sharing)
 
 
 Please be aware that the video files are not downladable and sharing with the others without a permission is prohibited.
