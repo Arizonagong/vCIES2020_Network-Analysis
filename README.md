@@ -38,6 +38,9 @@ I will guide you to download the csv file data sets directly to the R Studio, bu
 
 [Edge list](https://drive.google.com/file/d/1PsSMKrK0_XO4ie6zl9zBdfr50wtjILPe/view?usp=sharing)
 
+The practice session of the network analysis using igraph will create network visualizations as below.
+<img src="pictures/class">
+
 ##   3. Gephi data files
 
 The lecture using Gephi for the network data analysis will also use the same data set with the igraph.
