@@ -38,7 +38,9 @@ I will guide you to download the csv file data sets directly to the R Studio, bu
 
 [Edge list](https://drive.google.com/file/d/1PsSMKrK0_XO4ie6zl9zBdfr50wtjILPe/view?usp=sharing)
 
-The practice session of the network analysis using igraph will create network visualizations as below.
+The practice session of the network analysis using igraph will create network visualizations as below. 
+The picutres are created object during the lecture recordings and this class will guide you to create excatly the same object through the lecture.
+
 <img src="pictures/Class">
 <img src="pictures/cluster">
 
@@ -46,6 +48,9 @@ The practice session of the network analysis using igraph will create network vi
 
 The lecture using Gephi for the network data analysis will also use the same data set with the igraph.
 Please download the data sets from the above links.
+
+The picutre at below is one of the captures of the video recorded for the Gephi practice session by the lecturer.
+<img src="pictures/cluster">
 
 
 
