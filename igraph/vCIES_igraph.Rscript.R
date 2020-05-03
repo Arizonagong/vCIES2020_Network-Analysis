@@ -1,6 +1,6 @@
 # vCIES2020
-## This script is created by Byoung-gyu Gong (bgong7@asu.edu), 
-## for vCIES2020 Workshop for Network data analysis and visualization 
+## This script is created by Byoung-gyu Gong (bgong7@asu.edu),
+## for vCIES2020 Workshop for Network data analysis and visualization
 
 # Install packages
 install.packages(c("igraph","readr","tidyr","RColorBrewer"))
@@ -15,10 +15,10 @@ install.packages(c("igraph","readr","tidyr","RColorBrewer"))
 
 #1. Read data from the Github repository csv files
 library (readr)
-## Warning: There can be an error to get access to the urls at bellow. 
+## Warning: There can be an error to get access to the urls at bellow.
 ## Although you get the error message and fail to create data frames,
-## you should try it multiple times until you succeed because the error occurs randomly depending on 
-## the server condition. 
+## you should try it multiple times until you succeed because the error occurs randomly depending on
+## the server condition.
 ## If you fail to load the data through this method, then just download the file
 ## from the link uploaded at my github mainpage (readme), and manually load it.
 
@@ -33,6 +33,7 @@ B1<-subset(B,Freq>0) # Delete all the edges having weight equal to 0
 
 #3. Create an igraph object from the dataframes
 library(igraph)
+# Unless your edgelist in B1 is recognized as 'factor' it will produce an error
 Stucont<-graph_from_data_frame(B1, directed = FALSE, vertices = D_meta)
 E(Stucont)$weight<-E(Stucont)$Freq # Assigning edge attribute to each edge
 Stucont
@@ -117,7 +118,7 @@ for(i in 1:1000){results[[i]] <- assortativity_nominal(Stucont, sample(values))}
 
 #2.2.  Plot the distribution of assortativity values and add a red vertical line at the original observed value
 hist(unlist(results), xlim = c(0,0.4))
-abline(v = observed.assortativity,col = "red", lty = 3, lwd=2)                                                             
+abline(v = observed.assortativity,col = "red", lty = 3, lwd=2)
 
 #==================================================================#
 #===================== Network Visualization ======================#
@@ -128,7 +129,7 @@ abline(v = observed.assortativity,col = "red", lty = 3, lwd=2)
 set.seed(1001)
 library(RColorBrewer) # This is the color library
 pal<-brewer.pal(length(unique(V(Stucont)$Class)), "Set3") # Vertex color assigned per each class number
-plot(Stucont,edge.color = 'black',vertex.label.cex =0.5, 
+plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
      vertex.color=pal[as.numeric(as.factor(vertex_attr(Stucont, "Class")))],
      vertex.size = sqrt(Stucont_deg)/3, edge.width=sqrt(E(Stucont)$weight/800),
      layout = layout.fruchterman.reingold)
@@ -136,7 +137,7 @@ plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
 #1. Plotting a network with the eigenvector centrality
 
 set.seed(1001)
-plot(Stucont,edge.color = 'black',vertex.label.cex =0.5, 
+plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
      vertex.color=pal[as.numeric(as.factor(vertex_attr(Stucont, "Class")))],
      vertex.size = sqrt(Stucont_eig)*10, edge.width=sqrt(E(Stucont)$weight/800),
      layout = layout.fruchterman.reingold)
@@ -144,12 +145,12 @@ plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
 #2. Plotting a network with the betweenness centrality
 
 set.seed(1001)
-plot(Stucont,edge.color = 'black',vertex.label.cex =0.5, 
+plot(Stucont,edge.color = 'black',vertex.label.cex =0.5,
      vertex.color=pal[as.numeric(as.factor(vertex_attr(Stucont, "Class")))],
      vertex.size = sqrt(Stucont_bw)/3, edge.width=sqrt(E(Stucont)$weight/800),
      layout = layout.fruchterman.reingold)
 
-#3. Plotting a scatter plot to see the correlation 
+#3. Plotting a scatter plot to see the correlation
 
 #3.1. between degree and betweenness centrality
 
@@ -170,7 +171,7 @@ communities(lc) # You can check which vertices belongs to which clusters.
 #2. Plotting the Betweenness Centrality network with the community detection
 
 set.seed(1001) # To duplicate the computer process and create exactly the same network repetitively you should set the seed.
-plot(lc, Stucont, edge.color = 'black',vertex.label.cex =0.5, 
+plot(lc, Stucont, edge.color = 'black',vertex.label.cex =0.5,
      vertex.color=pal[as.numeric(as.factor(vertex_attr(Stucont, "Class")))],
      vertex.size = sqrt(Stucont_bw)/3, edge.width=sqrt(E(Stucont)$weight/800),
      layout = layout.fruchterman.reingold)
