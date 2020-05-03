@@ -32,7 +32,7 @@ For the igraph analysis, there are two data sets from the study of [Gemnetto, Ba
        
 * Gemmetto, V., Barrat, A., & Cattuto, C. (2014). Mitigation of infectious disease at school: targeted class closure vs school closure. BMC Infectious Diseases, 14(1), 736–10. http://doi.org/10.1186/s12879-014-0695-9
 
-**Why I chose this data set?**: I chose this data set because of the recent outbreak of COVID-19. By using school infection network data set, I'd like to show you how effective the network data analysis is for the school related student's network analysis in a massive scale. Also, I thought that the infection network data will give you a good motivation with high relevance to our quarantined situation. 
+**Why I chose this data set?**: I chose this data set because of the recent outbreak of COVID-19. By using school infection network data set, I'd like to show you how effective the network data analysis is for the school related student's network analysis in a massive scale. Also, I thought that the infection network data will give you a good motivation with high relevance to our new mode of daily life ruled by **social distancing and contact tracing**. 
 
 
 **How to download the data file for the analysis?**: I will guide you to download the csv file data sets directly to the R Studio in my video lecture, but if you'd like to download this file and load it in the R Studio manually, you can get this file at bellow links:
