@@ -34,7 +34,6 @@ B1<-subset(B,Freq>0) # Delete all the edges having weight equal to 0
 #3. Create an igraph object from the dataframes
 library(igraph)
 # Unless your edgelist in B1 is recognized as 'factor' it will produce an error
-######$$$$$$
 Stucont<-graph_from_data_frame(B1, directed = FALSE, vertices = D_meta)
 E(Stucont)$weight<-E(Stucont)$Freq # Assigning edge attribute to each edge
 Stucont
